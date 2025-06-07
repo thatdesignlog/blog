@@ -6,7 +6,6 @@
   <summary> a lil bit about me: </summary>
 
   <ul>
-    
     <li> she/her. 🇮🇩 born & 🇺🇸 based </li>
     <li> currently building internal tools for wss while constantly fangirling over kpop (ask me abt my fav gg) </li>
     <li> interested in R&D and building tools centering pedagogy, collaboration, community, creative exploration, storytelling, and culture </li>
